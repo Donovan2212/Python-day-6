@@ -3,7 +3,7 @@ import smtplib
 import time
 from datetime import datetime
 
-MY_EMAIL = "donavan.mohaloe@gmail.com"
+MY_EMAIL = "email@gmail.com"
 MY_PASSWORD = "uaxhphimlvuubjji"
 MY_LAT = 52.370216
 MY_LONG = 4.895168
